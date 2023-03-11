@@ -107,7 +107,8 @@
 				                                    fe fe fe fe fe fe fe 00
 				                                    00 00 00 00 00 00 00 00
 				                                    00 00 00 00 00 00 00 00
-				                                    00 00 00 00 00 00 00 00 ];
+				                                    00 00 00 00 00 00 00 00
+				                                    00 00 00 00 ];
 				qcom,lra-period-us = <5882>;
 				qcom,wf-fifo-period = <S_PERIOD_F_24KHZ>;
 				qcom,wf-brake-disable;
@@ -159,7 +160,8 @@
 				                                    fc fc fc fc fc fc fc fd
 				                                    fd fd fd fd fd fd fd fd
 				                                    fd fe fe fe fe fe fe fe
-				                                    fe fe fe fe 00 00 00 00 ];
+				                                    fe fe fe fe 00 00 00 00
+				                                    00 00 00 00 00 ];
 				qcom,lra-period-us = <5882>;
 				qcom,wf-fifo-period = <S_PERIOD_F_24KHZ>;
 				qcom,wf-brake-disable;
@@ -203,7 +205,8 @@
 				                                    fe fe fe fe fe fe fe 00
 				                                    00 00 00 00 00 00 00 00
 				                                    00 00 00 00 00 00 00 00
-				                                    00 00 00 00 00 00 00 00 ];
+				                                    00 00 00 00 00 00 00 00
+				                                    00 00 00 00 ];
 				qcom,lra-period-us = <5882>;
 				qcom,wf-fifo-period = <S_PERIOD_F_24KHZ>;
 				qcom,wf-brake-disable;
@@ -261,7 +264,8 @@
 				                                    fe 00 00 00 00 00 00 00
 				                                    00 00 00 00 00 00 00 00
 				                                    00 00 00 00 00 00 00 00
-				                                    00 00 00 00 00 00 00 00 ];
+				                                    00 00 00 00 00 00 00 00
+				                                    00 ];
 				qcom,lra-period-us = <5882>;
 				qcom,wf-fifo-period = <S_PERIOD_F_24KHZ>;
 				qcom,wf-brake-disable;
@@ -307,6 +311,7 @@
 				                                    fe fe fe fe fe fe fe fe
 				                                    fe fe fe fe fe fe fe fe
 				                                    fe 00 00 00 00 00 00 00
+				                                    00 00 00 00 00 00 00 00
 				                                    00 00 00 00 00 00 00 00 ];
 				qcom,lra-period-us = <5882>;
 				qcom,wf-fifo-period = <S_PERIOD_F_24KHZ>;
@@ -365,7 +370,8 @@
 				                                    fe 00 00 00 00 00 00 00
 				                                    00 00 00 00 00 00 00 00
 				                                    00 00 00 00 00 00 00 00
-				                                    00 00 00 00 00 00 00 00 ];
+				                                    00 00 00 00 00 00 00 00
+				                                    00 ];
 				qcom,lra-period-us = <5882>;
 				qcom,wf-fifo-period = <S_PERIOD_F_24KHZ>;
 				qcom,wf-brake-disable;
